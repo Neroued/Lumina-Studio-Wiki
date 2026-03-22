@@ -1,8 +1,8 @@
 ---
-title: 介绍
-description: 测试哦
+title: Lumina Studio
+description: 基于物理校准的多色FDM色彩系统
 published: true
-date: 2026-03-22T16:16:29.976Z
+date: 2026-03-22T18:00:38.448Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-22T11:57:26.463Z
