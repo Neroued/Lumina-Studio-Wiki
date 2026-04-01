@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T18:16:04.546Z
+date: 2026-04-01T18:17:28.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -20,21 +20,21 @@ dateCreated: 2026-04-01T17:22:01.393Z
 {.is-info}
 
 ## 爱丽兹
-| 类型 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
-| ---- | -------- | ---- | -------- | ------- |
-| PLA | 白色 | 7.0 | / | #FFFFFF |
-| PLA | 黄色 | 6.3 | Pantone 102 C | #fce300 |
-| PLA | 橙色 | 5.5 | Pantone 165 C | #ff671f |
-| PLA | 红色 | 4.5 | Pantone 187 C | #a6192e |
-| PLA | 品红色 | 3.3 | Pantone 239 C | #db3eb1 |
-| PLA | 青色 | 2.7 | Pantone 2382 C | #008ad8 |
-| PLA | 灰色 | 1.9 | Pantone Cool Gray 8 C | #888b8d |
-| PLA | 蓝色 | 1.7 | Pantone 2728 C | #0047bb |
-| PLA | 紫色 | 1.6 | Pantone 2102 C | #6558b1 |
-| PLA | 深咖色 | 0.6 | Pantone 4975 C | #3f2021 |
-| PLA | 金属银 | 0.4 | Pantone 877 C | #8a8d8f |
-| PLA | 黑色 | 0.2 | / | #000000 |
-| PLA | 墨绿色 | 0.2 | Pantone 7484 C | #00573f |
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 7.0 | / | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#FCE300'></div> | 黄色 | 6.3 | Pantone 102 C | #fce300 |
+| PLA | <div style='width:30px;height:20px;background:#FF671F'></div> | 橙色 | 5.5 | Pantone 165 C | #ff671f |
+| PLA | <div style='width:30px;height:20px;background:#A6192E'></div> | 红色 | 4.5 | Pantone 187 C | #a6192e |
+| PLA | <div style='width:30px;height:20px;background:#DB3EB1'></div> | 品红色 | 3.3 | Pantone 239 C | #db3eb1 |
+| PLA | <div style='width:30px;height:20px;background:#008AD8'></div> | 青色 | 2.7 | Pantone 2382 C | #008ad8 |
+| PLA | <div style='width:30px;height:20px;background:#888B8D'></div> | 灰色 | 1.9 | Pantone Cool Gray 8 C | #888b8d |
+| PLA | <div style='width:30px;height:20px;background:#0047BB'></div> | 蓝色 | 1.7 | Pantone 2728 C | #0047bb |
+| PLA | <div style='width:30px;height:20px;background:#6558B1'></div> | 紫色 | 1.6 | Pantone 2102 C | #6558b1 |
+| PLA | <div style='width:30px;height:20px;background:#3F2021'></div> | 深咖色 | 0.6 | Pantone 4975 C | #3f2021 |
+| PLA | <div style='width:30px;height:20px;background:#8A8D8F'></div> | 金属银 | 0.4 | Pantone 877 C | #8a8d8f |
+| PLA | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.2 | / | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#00573F'></div> | 墨绿色 | 0.2 | Pantone 7484 C | #00573f |
 
 
 ---
