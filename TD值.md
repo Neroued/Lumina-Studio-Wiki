@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T17:40:18.171Z
+date: 2026-04-01T17:40:32.473Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -15,7 +15,7 @@ dateCreated: 2026-04-01T17:22:01.393Z
 
 
 ---
-### 爱丽兹
+## 爱丽兹
 | 类型 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
 | ---- | -------- | ---- | -------- | ------- |
 | PLA | 白色 | 7.00 | / | #FFFFFF |
