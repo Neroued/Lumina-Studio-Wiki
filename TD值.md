@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T17:50:22.147Z
+date: 2026-04-01T17:53:47.495Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -22,19 +22,19 @@ dateCreated: 2026-04-01T17:22:01.393Z
 ## 爱丽兹
 | 类型 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
 | ---- | -------- | ---- | -------- | ------- |
-| PLA | 白色 | 7.00 | / | #FFFFFF |
-| PLA | 黄色 | 6.30 | Pantone 102 C | #fce300 |
-| PLA | 橙色 | 5.50 | Pantone 165 C | #ff671f |
-| PLA | 红色 | 4.50 | Pantone 187 C | #a6192e |
-| PLA | 品红色 | 3.30 | Pantone 239 C | #db3eb1 |
-| PLA | 青色 | 2.70 | Pantone 2382 C | #008ad8 |
-| PLA | 灰色 | 1.90 | Pantone Cool Gray 8 C | #888b8d |
-| PLA | 蓝色 | 1.70 | Pantone 2728 C | #0047bb |
-| PLA | 紫色 | 1.60 | Pantone 2102 C | #6558b1 |
-| PLA | 深咖色 | 0.60 | Pantone 4975 C | #3f2021 |
-| PLA | 金属银 | 0.40 | Pantone 877 C | #8a8d8f |
-| PLA | 黑色 | 0.20 | / | #000000 |
-| PLA | 墨绿色 | 0.20 | Pantone 7484 C | #00573f |
+| PLA | 白色 | 7.0 | / | #FFFFFF |
+| PLA | 黄色 | 6.3 | Pantone 102 C | #fce300 |
+| PLA | 橙色 | 5.5 | Pantone 165 C | #ff671f |
+| PLA | 红色 | 4.5 | Pantone 187 C | #a6192e |
+| PLA | 品红色 | 3.3 | Pantone 239 C | #db3eb1 |
+| PLA | 青色 | 2.7 | Pantone 2382 C | #008ad8 |
+| PLA | 灰色 | 1.9 | Pantone Cool Gray 8 C | #888b8d |
+| PLA | 蓝色 | 1.7 | Pantone 2728 C | #0047bb |
+| PLA | 紫色 | 1.6 | Pantone 2102 C | #6558b1 |
+| PLA | 深咖色 | 0.6 | Pantone 4975 C | #3f2021 |
+| PLA | 金属银 | 0.4 | Pantone 877 C | #8a8d8f |
+| PLA | 黑色 | 0.2 | / | #000000 |
+| PLA | 墨绿色 | 0.2 | Pantone 7484 C | #00573f |
 
 
 ---
@@ -84,20 +84,20 @@ dateCreated: 2026-04-01T17:22:01.393Z
 ## FULLJOY
 | 耗材类型 | 颜色名称 | TD值 | HEX色值 |
 | -------- | -------- | ---- | ------- |
-| PLA | 骨白色 | 7.50 | #FFFFFF |
-| PLA | 黄色 | 5.10 | #D4A123 |
-| PLA | 橙色 | 4.30 | #D66927 |
-| PLA | 红色 | 2.85 | #A83A35 |
-| PLA | 粉红色 | 2.85 | #CC99C0 |
-| PLA | 绿色 | 2.15 | #2A6A3C |
-| PLA | 天蓝色 | 2.15 | #42AFBA |
-| PLA | 炫彩银 | 1.85 | #908789 |
-| PLA | 橄榄绿 | 1.70 | #2F4637 |
-| PLA | 咖啡色 | 0.95 | #604035 |
-| PLA | 航空灰 | 0.40 | #76726F |
-| PLA | 灰色 | 0.30 | #606264 |
-| PLA | 黑色 | 0.20 | #000000 |
-| PLA | 金属钛 | 0.15 | #474643 |
+| PLA | 骨白色 | 7.5 | #FFFFFF |
+| PLA | 黄色 | 5.1 | #D4A123 |
+| PLA | 橙色 | 4.3 | #D66927 |
+| PLA | 红色 | 2.9 | #A83A35 |
+| PLA | 粉红色 | 2.9 | #CC99C0 |
+| PLA | 绿色 | 2.2 | #2A6A3C |
+| PLA | 天蓝色 | 2.2 | #42AFBA |
+| PLA | 炫彩银 | 1.9 | #908789 |
+| PLA | 橄榄绿 | 1.7 | #2F4637 |
+| PLA | 咖啡色 | 1.0 | #604035 |
+| PLA | 航空灰 | 0.4 | #76726F |
+| PLA | 灰色 | 0.3 | #606264 |
+| PLA | 黑色 | 0.2 | #000000 |
+| PLA | 金属钛 | 0.2 | #474643 |
 
 
 ## 众博新一
