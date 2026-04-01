@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T18:17:28.839Z
+date: 2026-04-01T18:18:17.436Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -82,43 +82,42 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PETG | <div style='width:30px;height:20px;background:#8B4513'></div> | 金属红铜色 | 0.1 | PANTONE 7610C | #8B4513 |
 
 ## FULLJOY
-| 耗材类型 | 颜色名称 | TD值 | HEX色值 |
-| -------- | -------- | ---- | ------- |
-| PLA | 骨白色 | 7.5 | #FFFFFF |
-| PLA | 黄色 | 5.1 | #D4A123 |
-| PLA | 橙色 | 4.3 | #D66927 |
-| PLA | 红色 | 2.9 | #A83A35 |
-| PLA | 粉红色 | 2.9 | #CC99C0 |
-| PLA | 绿色 | 2.2 | #2A6A3C |
-| PLA | 天蓝色 | 2.2 | #42AFBA |
-| PLA | 炫彩银 | 1.9 | #908789 |
-| PLA | 橄榄绿 | 1.7 | #2F4637 |
-| PLA | 咖啡色 | 1.0 | #604035 |
-| PLA | 航空灰 | 0.4 | #76726F |
-| PLA | 灰色 | 0.3 | #606264 |
-| PLA | 黑色 | 0.2 | #000000 |
-| PLA | 金属钛 | 0.2 | #474643 |
+| 耗材类型 | 颜色 | 颜色名称 | TD值 | HEX色值 |
+| -------- | ---- | -------- | ---- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 骨白色 | 7.5 | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#D4A123'></div> | 黄色 | 5.1 | #D4A123 |
+| PLA | <div style='width:30px;height:20px;background:#D66927'></div> | 橙色 | 4.3 | #D66927 |
+| PLA | <div style='width:30px;height:20px;background:#A83A35'></div> | 红色 | 2.9 | #A83A35 |
+| PLA | <div style='width:30px;height:20px;background:#CC99C0'></div> | 粉红色 | 2.9 | #CC99C0 |
+| PLA | <div style='width:30px;height:20px;background:#2A6A3C'></div> | 绿色 | 2.2 | #2A6A3C |
+| PLA | <div style='width:30px;height:20px;background:#42AFBA'></div> | 天蓝色 | 2.2 | #42AFBA |
+| PLA | <div style='width:30px;height:20px;background:#908789'></div> | 炫彩银 | 1.9 | #908789 |
+| PLA | <div style='width:30px;height:20px;background:#2F4637'></div> | 橄榄绿 | 1.7 | #2F4637 |
+| PLA | <div style='width:30px;height:20px;background:#604035'></div> | 咖啡色 | 1.0 | #604035 |
+| PLA | <div style='width:30px;height:20px;background:#76726F'></div> | 航空灰 | 0.4 | #76726F |
+| PLA | <div style='width:30px;height:20px;background:#606264'></div> | 灰色 | 0.3 | #606264 |
+| PLA | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.2 | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#474643'></div> | 金属钛 | 0.2 | #474643 |
 
 
 ## 众博新一
-| 耗材类型 | 颜色名称 | TD值 | HEX色值 |
-| -------- | -------- | ---- | ------- |
-| PETG | 亮橙 | 7.0 | #E45C39 |
-| PETG | 亮黄 | 5.6 | #DDC536 |
-| PETG | 橄榄黄绿 | 4.5 | #888237 |
-| PETG | 金属绿 | 4.1 | #47703A |
-| PETG | 白色 | 3.9 | #FFFFFF |
-| PETG | 金属青铜 | 3.7 | #968139 |
-| PETG | 中国红 | 3.4 | #8D3739 |
-| PETG | 品红 | 3.4 | #AD518F |
-| PETG | 金属红 | 3.2 | #843C40 |
-| PETG | 天蓝 | 2.9 | #2089B5 |
-| PETG | 草绿 | 2.7 | #78AF3D |
-| PETG | 宝蓝 | 2.6 | #2E4D82 |
-| PETG | 高光蓝 | 2.6 | #26637C |
-| PETG | 金属紫 | 1.6 | #585078 |
-| PETG | 黑色 | 0.4 | / |
-
+| 耗材类型 | 颜色 | 颜色名称 | TD值 | HEX色值 |
+| -------- | ---- | -------- | ---- | ------- |
+| PETG | <div style='width:30px;height:20px;background:#E45C39'></div> | 亮橙 | 7.0 | #E45C39 |
+| PETG | <div style='width:30px;height:20px;background:#DDC536'></div> | 亮黄 | 5.6 | #DDC536 |
+| PETG | <div style='width:30px;height:20px;background:#888237'></div> | 橄榄黄绿 | 4.5 | #888237 |
+| PETG | <div style='width:30px;height:20px;background:#47703A'></div> | 金属绿 | 4.1 | #47703A |
+| PETG | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 3.9 | #FFFFFF |
+| PETG | <div style='width:30px;height:20px;background:#968139'></div> | 金属青铜 | 3.7 | #968139 |
+| PETG | <div style='width:30px;height:20px;background:#8D3739'></div> | 中国红 | 3.4 | #8D3739 |
+| PETG | <div style='width:30px;height:20px;background:#AD518F'></div> | 品红 | 3.4 | #AD518F |
+| PETG | <div style='width:30px;height:20px;background:#843C40'></div> | 金属红 | 3.2 | #843C40 |
+| PETG | <div style='width:30px;height:20px;background:#2089B5'></div> | 天蓝 | 2.9 | #2089B5 |
+| PETG | <div style='width:30px;height:20px;background:#78AF3D'></div> | 草绿 | 2.7 | #78AF3D |
+| PETG | <div style='width:30px;height:20px;background:#2E4D82'></div> | 宝蓝 | 2.6 | #2E4D82 |
+| PETG | <div style='width:30px;height:20px;background:#26637C'></div> | 高光蓝 | 2.6 | #26637C |
+| PETG | <div style='width:30px;height:20px;background:#585078'></div> | 金属紫 | 1.6 | #585078 |
+| PETG | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.4 | / |
 
 ## 赛纳
 
