@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T18:11:35.270Z
+date: 2026-04-01T18:16:04.546Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -46,11 +46,12 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PETG | <div style='width:30px;height:20px;background:#E4C6D4'></div> | 樱花粉 | 4.7 | PANTONE 684C | #E4C6D4 |
 | PETG | <div style='width:30px;height:20px;background:#FF6A39'></div> | 橙色 | 4.0 | PANTONE 1645C | #FF6A39 |
 | PETG | <div style='width:30px;height:20px;background:#EFDDB2'></div> | 米黄色 | 4.0 | PANTONE 7506C | #EFDDB2 |
-| PETG | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #eee'></div> | 白色 | 3.9 | / | #FFFFFF |
+| PETG | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 3.9 | / | #FFFFFF |
 | PETG | <div style='width:30px;height:20px;background:#CB333B'></div> | 朱砂红 | 3.3 | PANTONE 1797C | #CB333B |
 | PETG | <div style='width:30px;height:20px;background:#D50032'></div> | 大红色 | 3.1 | PANTONE 199C | #D50032 |
 | PETG | <div style='width:30px;height:20px;background:#DB3EB1'></div> | 品红色 | 2.9 | PANTONE 239C | #DB3EB1 |
 | PETG | <div style='width:30px;height:20px;background:#C5A900'></div> | 琥珀金 | 2.9 | PANTONE 103C | #C5A900 |
+| PETG | <div style='width:30px;height:20px;background:#E58F33'></div> | 金属钛空橙 | 2.7 | PANTONE 144C | #E58F33 |
 | PETG | <div style='width:30px;height:20px;background:#6CC24A'></div> | 柠檬绿 | 2.6 | PANTONE 360 C | #6CC24A |
 | PETG | <div style='width:30px;height:20px;background:#00358e'></div> | 克莱因蓝 | 2.3 | PANTONE 2146C | #00358e |
 | PETG | <div style='width:30px;height:20px;background:#6D3332'></div> | 酒红色 | 2.3 | PANTONE 7629C | #6D3332 |
