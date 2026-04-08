@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-01T18:20:55.453Z
+date: 2026-04-08T23:47:34.716Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -100,25 +100,6 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PLA | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.2 | #000000 |
 | PLA | <div style='width:30px;height:20px;background:#474643'></div> | 金属钛 | 0.2 | #474643 |
 
-
-## 众博新一
-| 耗材类型 | 颜色 | 颜色名称 | TD值 | HEX色值 |
-| -------- | ---- | -------- | ---- | ------- |
-| PETG | <div style='width:30px;height:20px;background:#E45C39'></div> | 亮橙 | 7.0 | #E45C39 |
-| PETG | <div style='width:30px;height:20px;background:#DDC536'></div> | 亮黄 | 5.6 | #DDC536 |
-| PETG | <div style='width:30px;height:20px;background:#888237'></div> | 橄榄黄绿 | 4.5 | #888237 |
-| PETG | <div style='width:30px;height:20px;background:#47703A'></div> | 金属绿 | 4.1 | #47703A |
-| PETG | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 3.9 | #FFFFFF |
-| PETG | <div style='width:30px;height:20px;background:#968139'></div> | 金属青铜 | 3.7 | #968139 |
-| PETG | <div style='width:30px;height:20px;background:#8D3739'></div> | 中国红 | 3.4 | #8D3739 |
-| PETG | <div style='width:30px;height:20px;background:#AD518F'></div> | 品红 | 3.4 | #AD518F |
-| PETG | <div style='width:30px;height:20px;background:#843C40'></div> | 金属红 | 3.2 | #843C40 |
-| PETG | <div style='width:30px;height:20px;background:#2089B5'></div> | 天蓝 | 2.9 | #2089B5 |
-| PETG | <div style='width:30px;height:20px;background:#78AF3D'></div> | 草绿 | 2.7 | #78AF3D |
-| PETG | <div style='width:30px;height:20px;background:#2E4D82'></div> | 宝蓝 | 2.6 | #2E4D82 |
-| PETG | <div style='width:30px;height:20px;background:#26637C'></div> | 高光蓝 | 2.6 | #26637C |
-| PETG | <div style='width:30px;height:20px;background:#585078'></div> | 金属紫 | 1.6 | #585078 |
-| PETG | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.4 | / |
 
 ## 赛纳
 
