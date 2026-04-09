@@ -2,7 +2,7 @@
 title: Lumina Studio
 description: 基于物理校准的多色FDM色彩系统
 published: true
-date: 2026-04-09T00:03:06.364Z
+date: 2026-04-09T00:03:24.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-22T11:57:26.463Z
@@ -20,7 +20,7 @@ svg tool： https://github.com/Neroued/neroued_vectorizer
 **We have maintained active communication with numerous filament manufacturers.Without disrupting their existing production processes, we use their off-the-shelf filaments for print color calibration.This means we do not require manufacturers to produce special filaments with customized light transmission rates or specific colors.
 Based on this principle, we have consulted with manufacturers, who provide filaments in their existing standard colors.Our development team then uses these filaments to print corresponding color charts, which are captured with precisely calibrated photography to generate the most accurate color presets.
 Additionally, users are supported to freely share their own color presets for the filaments they use.**
-> **lumina的主旨就是，开源开放，合作共创<BR>The core philosophy of Lumina is open source, open collaboration, and co-creation.。**
+> **lumina的主旨就是，开源开放，合作共创<BR>The core philosophy of Lumina is open source, open collaboration, and co-creation**
 {.is-success}
 
 ## 更多功能
