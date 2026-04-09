@@ -2,7 +2,7 @@
 title: Lumina Studio
 description: 基于物理校准的多色FDM色彩系统
 published: true
-date: 2026-04-09T00:02:48.220Z
+date: 2026-04-09T00:03:06.364Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-22T11:57:26.463Z
@@ -39,6 +39,6 @@ High-fidelity mode / Pixel mode / SVG mode
 支持掐丝珐琅模式 wiry enamel(cloisonné enamel)
 支持生成预览后替换图中颜色 Replace colors in the image
 
-### 高级功能
+### 高级功能 Advanced Features
 支持颜色配方查询功能 Color Formula Search
 支持合并色卡功能 Merge color card function
