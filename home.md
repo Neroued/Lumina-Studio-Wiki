@@ -2,7 +2,7 @@
 title: Lumina Studio
 description: 基于物理校准的多色FDM色彩系统
 published: true
-date: 2026-04-09T00:09:34.127Z
+date: 2026-04-10T15:06:50.928Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-22T11:57:26.463Z
@@ -11,18 +11,22 @@ dateCreated: 2026-03-22T11:57:26.463Z
 # **Lumina Studio**
 ## 项目介绍
 Lumina-layers在2026年1月开发并且完全开源发布在github上面的软件，lumina为了简化用户使用hueforge/flatforge等其他软件学习门槛过高或需要使用指定要求的耗材的问题，基于物理校准使用了穷举法和简化穷举法来获得实际打印颜色，目前的模式并未带来任何颜色理论计算（未来可能会在2.0的高级功能中推出基于颜色/td值等的颜色计算玩法），目前只是打印-拍摄-提取颜色-根据提取的颜色映射堆叠配方-打印（这像是一种颜色匹配功能，就像是你在autoforge和CMYK Lithophane那样会默认给你匹配一些颜色的功能一样，所以受此启发）
-**Lumina-layers is a piece of software developed in January 2026 and released as fully open source on GitHub.Lumina was created to lower the steep learning curve associated with tools like HueForge and FlatForge, as well as to avoid the need for specialized filaments required by those applications.Using physical calibration, it employs exhaustive search and simplified exhaustive methods to determine actual printed colors.The current version does not involve any color-theory-based calculations (such features based on color models, TD values, etc., may be added as advanced functions in version 2.0).At present, the workflow simply consists of: print → photograph → extract color → map stacking recipes based on extracted colors → print.This functions like a color-matching feature, similar to the automatic color-matching behavior found in AutoForge and CMYK Lithophane, which served as the inspiration for this approach.**
+
 > 在开发过程中为了方便用户，自研开发了一款开源的高精度位图转SVG的工具并且会在未来的2.0版本集成在软件内部。During development, an in-house, open-source, high-precision bitmap-to-SVG converter was created for user convenience and will be integrated into the software in the upcoming 2.0 release.
 svg tool： https://github.com/Neroued/neroued_vectorizer
 {.is-info}
 
 我们积极的和很多耗材厂家进行沟通，在不影响耗材厂家生产的情况下，使用现有的耗材进行打印色卡校准，意思是不会要求任何厂家强行生产特定透光率和颜色的耗材，在这个基础上我们咨询一些厂家的意见，厂家提供现有颜色的耗材，我们不收取任何费用也不会收取任何佣金，即使是厂家需要挂推广链接，所获得的佣金项目组也用来抽奖做活动了，开发组去使用这些耗材打印对应的颜色的色卡，并且通过精校拍摄，来得到最准的色卡预设。同时也支持用户自行分享自己的使用的色卡预设
-**We maintain active communication with many filament manufacturers.Without affecting their normal production, we use their existing filaments to perform color calibration for printed color charts.This means we do not require manufacturers to produce filaments with specific light transmittance or custom colors.
-Based on this principle, we consult manufacturers, who provide filaments in their current standard colors.We charge no fees or commissions of any kind.Even if manufacturers wish to place promotional links, any commissions earned are used by the project team for giveaways and community events.
-Our development team uses these filaments to print corresponding color charts, which are then captured with precisely calibrated photography to create the most accurate color presets.Users are also free to share their own color presets..**
+
 > **lumina的主旨就是，开源开放，合作共创<BR>The core philosophy of Lumina is open source, open collaboration, and co-creation**
 {.is-success}
 
+**Lumina-layers is a piece of software developed in January 2026 and released as fully open source on GitHub.Lumina was created to lower the steep learning curve associated with tools like HueForge and FlatForge, as well as to avoid the need for specialized filaments required by those applications.Using physical calibration, it employs exhaustive search and simplified exhaustive methods to determine actual printed colors.The current version does not involve any color-theory-based calculations (such features based on color models, TD values, etc., may be added as advanced functions in version 2.0).At present, the workflow simply consists of: print → photograph → extract color → map stacking recipes based on extracted colors → print.This functions like a color-matching feature, similar to the automatic color-matching behavior found in AutoForge and CMYK Lithophane, which served as the inspiration for this approach.**  
+  
+**We maintain active communication with many filament manufacturers.Without affecting their normal production, we use their existing filaments to perform color calibration for printed color charts.This means we do not require manufacturers to produce filaments with specific light transmittance or custom colors.
+Based on this principle, we consult manufacturers, who provide filaments in their current standard colors.We charge no fees or commissions of any kind.Even if manufacturers wish to place promotional links, any commissions earned are used by the project team for giveaways and community events.
+Our development team uses these filaments to print corresponding color charts, which are then captured with precisely calibrated photography to create the most accurate color presets.Users are also free to share their own color presets..**  
+  
 ## 更多功能
 ### 颜色模式 Color Modes
 2/4/5/6/8色
