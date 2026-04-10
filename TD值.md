@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-08T23:47:34.716Z
+date: 2026-04-10T14:40:46.233Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -37,8 +37,6 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PLA | <div style='width:30px;height:20px;background:#000000'></div> | 黑色 | 0.2 | / | #000000 |
 | PLA | <div style='width:30px;height:20px;background:#00573F'></div> | 墨绿色 | 0.2 | Pantone 7484 C | #00573f |
 
-
----
 
 | 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
 | ---- | ---- | -------- | ---- | -------- | ------- |
@@ -102,11 +100,60 @@ dateCreated: 2026-04-01T17:22:01.393Z
 
 
 ## 赛纳
-
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#000000;border:1px solid #ddd'></div> | 黑色 | 0.1 | / | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 2.6 | / | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#FFFF4A;border:1px solid #ddd'></div> | 黄色 | 4.8 | / | #FFFF4A |
+| PLA | <div style='width:30px;height:20px;background:#15215E;border:1px solid #ddd'></div> | 深蓝色 | 3.2 | / | #15215E |
+| PLA | <div style='width:30px;height:20px;background:#3F8BD8;border:1px solid #ddd'></div> | 蓝色 | 2.1 | / | #3F8BD8 |
+| PLA | <div style='width:30px;height:20px;background:#861E15;border:1px solid #ddd'></div> | 红色 | 4.9 | / | #861E15 |
+| PLA | <div style='width:30px;height:20px;background:#B9FF7B;border:1px solid #ddd'></div> | 浅绿色 | 3.6 | / | #B9FF7B |
+| PLA | <div style='width:30px;height:20px;background:#A73D81;border:1px solid #ddd'></div> | 品红色 | 2.8 | / | #A73D81 |
 
 ## 纵维立方
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#000000;border:1px solid #ddd'></div> | 黑色 | 0.1 | / | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 5.9 | / | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#FFFF3F;border:1px solid #ddd'></div> | 黄色 | 5.8 | / | #FFFF3F |
+| PLA | <div style='width:30px;height:20px;background:#2946B5;border:1px solid #ddd'></div> | 蓝色 | 1.6 | / | #2946B5 |
+| PLA | <div style='width:30px;height:20px;background:#BB4680;border:1px solid #ddd'></div> | 品红色 | 3.6 | / | #BB4680 |
+| PLA | <div style='width:30px;height:20px;background:#8A1E1D;border:1px solid #ddd'></div> | 红色 | 5.1 | / | #8A1E1D |
+| PLA | <div style='width:30px;height:20px;background:#519F47;border:1px solid #ddd'></div> | 绿色 | 1.5 | / | #519F47 |
+| PLA | <div style='width:30px;height:20px;background:#53A0F2;border:1px solid #ddd'></div> | 青色 | 2.4 | / | #53A0F2 |
+
 
 
 ## 魔创
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PETG | <div style='width:30px;height:20px;background:#000000;border:1px solid #ddd'></div> | 黑色 | 0.2 | / | #000000 |
+| PETG | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 6.8 | / | #FFFFFF |
+| PETG | <div style='width:30px;height:20px;background:#90BB2E;border:1px solid #ddd'></div> | 草绿色 | 4.5 | / | #90BB2E |
+| PETG | <div style='width:30px;height:20px;background:#B93875;border:1px solid #ddd'></div> | 品红色 | 3.4 | / | #B93875 |
+| PETG | <div style='width:30px;height:20px;background:#FFFA50;border:1px solid #ddd'></div> | 黄色 | 6.9 | / | #FFFA50 |
+| PETG | <div style='width:30px;height:20px;background:#7D1B1A;border:1px solid #ddd'></div> | 红色 | 4.7 | / | #7D1B1A |
+| PETG | <div style='width:30px;height:20px;background:#56A69A;border:1px solid #ddd'></div> | 青碧色 | 6.6 | / | #56A69A |
+| PETG | <div style='width:30px;height:20px;background:#1C367A;border:1px solid #ddd'></div> | 蓝色 | 2.7 | / | #1C367A |
 
 ## 快造
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#000000;border:1px solid #ddd'></div> | 黑色 | 0.1 | / | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 6.7 | / | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#FFCB30;border:1px solid #ddd'></div> | 黄色 | 4.8 | / | #FFCB30 |
+| PLA | <div style='width:30px;height:20px;background:#162145;border:1px solid #ddd'></div> | 蓝色 | 0.3 | / | #162145 |
+| PLA | <div style='width:30px;height:20px;background:#A41A17;border:1px solid #ddd'></div> | 红色 | 1.9 | / | #A41A17 |
+| PLA | <div style='width:30px;height:20px;background:#D03060;border:1px solid #ddd'></div> | 品红色 | 3.0 | / | #D03060 |
+
+## 必趣
+| 类型 | 颜色 | 颜色名称 | TD值 | 潘通色号 | HEX色值 |
+| ---- | ---- | -------- | ---- | -------- | ------- |
+| PLA | <div style='width:30px;height:20px;background:#000000;border:1px solid #ddd'></div> | 黑色 | 0.1 | / | #000000 |
+| PLA | <div style='width:30px;height:20px;background:#FFFFFF;border:1px solid #ddd'></div> | 白色 | 6.1 | / | #FFFFFF |
+| PLA | <div style='width:30px;height:20px;background:#D2FF6D;border:1px solid #ddd'></div> | 绿色 | 1.4 | / | #D2FF6D |
+| PLA | <div style='width:30px;height:20px;background:#8B2523;border:1px solid #ddd'></div> | 红色 | 1.6 | / | #8B2523 |
+| PLA | <div style='width:30px;height:20px;background:#2950CA;border:1px solid #ddd'></div> | 蓝色 | 0.7 | / | #2950CA |
+| PLA | <div style='width:30px;height:20px;background:#FFFF41;border:1px solid #ddd'></div> | 黄色 | 4.8 | / | #FFFF41 |
+
