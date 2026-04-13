@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-13T16:11:04.404Z
+date: 2026-04-13T16:13:21.075Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -165,7 +165,7 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PLA | <div style='width:30px;height:20px;background:#2950CA;border:1px solid #ddd'></div> | 蓝色 | 0.7 |#2950CA |
 | PLA | <div style='width:30px;height:20px;background:#FFFF41;border:1px solid #ddd'></div> | 黄色 | 4.8 | #FFFF41 |
 
-## 必应 PETGHF
+## 必应
 
 | 类型 | 颜色 | 颜色名称 | TD值 | HEX 色值 |
 | ---- | ---- | -------- | ---- | -------- |
