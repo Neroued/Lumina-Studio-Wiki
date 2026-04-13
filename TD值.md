@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-11T16:50:10.967Z
+date: 2026-04-13T16:11:04.404Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -173,3 +173,8 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PETGHF | <span style="background-color:#294FB8; display:inline-block; width:20px; height:14px;"></span> | 蓝色 | 2.6 | #294FB8 |
 | PETGHF | <span style="background-color:#81221C; display:inline-block; width:20px; height:14px;"></span> | 红色 | 4.4 | #81221C |
 | PETGHF | <span style="background-color:#FFFFFF; border:1px solid #ccc; display:inline-block; width:20px; height:14px;"></span> | 白色 | 6.6 | #FFFFFF |
+| 类型   | 颜色 | 颜色名称 | TD值 | HEX 色值 |
+| PLA-F  | <span style="background-color:#FFFFFF; border:1px solid #ccc; display:inline-block; width:20px; height:14px;"></span> | 白色 | 5.7 | #FFFFFF |
+| PLA-F  | <span style="background-color:#F8DA39; display:inline-block; width:20px; height:14px;"></span> | 黄色 | 5.9 | #F8DA39 |
+| PLA-F  | <span style="background-color:#141B45; display:inline-block; width:20px; height:14px;"></span> | 蓝色 | 3.1 | #141B45 |
+| PLA-F  | <span style="background-color:#871919; display:inline-block; width:20px; height:14px;"></span> | 红色 | 5.1 | #871919 |
