@@ -2,7 +2,7 @@
 title: 色卡校准
 description: 
 published: true
-date: 2026-04-15T13:10:45.865Z
+date: 2026-04-15T14:11:07.734Z
 tags: 
 editor: ckeditor
 dateCreated: 2026-03-22T17:51:32.289Z
@@ -31,12 +31,28 @@ dateCreated: 2026-03-22T17:51:32.289Z
 <p>在一张照片内同时拍摄到校准板和色卡，校准板在画面中的比例不低于30%，避免拍摄歪斜，校准板在画面中应当接近正方形。必要时可以通过三脚架辅助定位构图。</p>
 <p>&nbsp;</p>
 <h3>相机设定</h3>
-<p>打开相机的RAW存储，使用默认的色彩模式，不要开启胶片模拟等影响色准的功能。参数设定A档，白平衡自动，ISO100（相机的Base ISO，常见值是100），光圈F8。A档下晴天时，快门速度通常快于1/200s。</p>
+<p>打开相机的RAW存储，使用默认的色彩模式，不要开启胶片模拟等影响色准的功能。参数设定A档，白平衡自动，ISO100（相机的Base ISO，常见值是100），光圈F8。晴天时，快门速度通常快于1/200s。</p>
 <p>&nbsp;</p>
 <figure class="image"><img src="/snipaste_2026-04-15_18-07-41.png">
   <figcaption>拍摄成图样例</figcaption>
 </figure>
 <h3>转换RAW为DNG</h3>
-<p>将拍摄得到的RAW文件导入Photoshop</p>
+<p>将拍摄得到的RAW文件导入Photoshop，会自动进入Camera Raw插件。</p>
+<figure class="image"><img src="/转dng-1.png">
+  <figcaption>导入后应当如图，进入Camera Raw插件中</figcaption>
+</figure>
+<h4>选择白平衡</h4>
+<p>如下图，点击使用白平衡吸管吸取色块，该吸管可以框选，框选区域为色块中心的50%</p>
+<figure class="image"><img src="/转dng-2.png"></figure>
+<h4>RAW降噪（可选）</h4>
+<p>如下图，在细节栏中勾选去杂色，调整滑块强度。该步骤为可选项</p>
+<figure class="image"><img src="/降噪设置.png"></figure>
+<blockquote>
+  <p>去杂色功能是Photoshop在较新的版本中引入的AI降噪，较早版本中可能只有手动降噪功能。</p>
+  <p>如果您使用较早版本的Photoshop，如Photoshop CS6，则可能只有手动降噪的功能，应当省略该步骤，或尝试在不损失颜色饱和度的情况下适当调整。</p>
+</blockquote>
+<h4>存储为DNG</h4>
+<p>如下图，点击右上角存储按键</p>
+<figure class="image"><img src="/存储dng.png"></figure>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
