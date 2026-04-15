@@ -2,7 +2,7 @@
 title: 校准板校色
 description: 
 published: true
-date: 2026-04-15T17:16:20.890Z
+date: 2026-04-15T17:39:46.783Z
 tags: 
 editor: ckeditor
 dateCreated: 2026-03-22T17:51:32.289Z
@@ -40,6 +40,13 @@ dateCreated: 2026-03-22T17:51:32.289Z
 <p>将拍摄得到的RAW文件导入Photoshop，会自动进入Camera Raw插件。</p>
 <figure class="image"><img src="/%E8%BD%ACdng-1.png" alt=""></figure>
 <p>&nbsp;</p>
+<h4>进入CameraRaw首选项，修改工作色彩空间</h4>
+<p>如下图，点击底部中间的选项</p>
+<figure class="image"><img src="/校色-cameraraw颜色设置.jpg"></figure>
+<p>如下图设定色彩空间和色彩深度</p>
+<figure class="image"><img src="/校色-cameraraw颜色设置-2.png"></figure>
+<p>色彩空间设定只需要设定一次，CameraRaw插件会记住该设定。</p>
+<p>&nbsp;</p>
 <h4>选择白平衡</h4>
 <p>如下图，点击使用白平衡吸管吸取色块，该吸管可以框选，框选区域为色块中心的50%。</p>
 <figure class="image"><img src="/%E8%BD%ACdng-2.png" alt=""></figure>
@@ -57,6 +64,8 @@ dateCreated: 2026-03-22T17:51:32.289Z
 <figure class="image"><img src="/%E5%AD%98%E5%82%A8dng.png" alt=""></figure>
 <p>如下图，按图设置并存储DNG。</p>
 <figure class="image"><img src="/%E5%AD%98%E5%82%A8dng-3.png" alt=""></figure>
+<p>&nbsp;</p>
+<h4>关闭Photoshop软件</h4>
 <p>&nbsp;</p>
 <h3>在ColorChecker中生成相机校准配置文件</h3>
 <p>将上一步生成的DNG文件导入ColorChecker中，可能有两种情况，一种情况是软件自动完成了识别校准板和定位，另一种情况如下图，自动识别失败，需要手动点击四角定位。</p>
@@ -120,7 +129,13 @@ dateCreated: 2026-03-22T17:51:32.289Z
 <figure class="image"><img src="/校色-填充-1.png"></figure>
 <p>填充设定如下图</p>
 <figure class="image"><img src="/校色-填充-2.png"></figure>
+<p>如下图，检查是否填充成功。检查完记得把背景放回来</p>
+<figure class="image"><img src="/校色-填充-3.png"></figure>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<h4>导出校色完成的图片</h4>
+<p>文件-导出-导出为</p>
+<figure class="image"><img src="/校色-导出-1.png"></figure>
+<p>选择格式为PNG，勾选转换为sRGB和嵌入颜色配置文件，导出校色结果图</p>
+<figure class="image"><img src="/校色-导出-2.png"></figure>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
