@@ -2,7 +2,7 @@
 title: Lumina Studio
 description: 基于物理校准的多色FDM色彩系统
 published: true
-date: 2026-04-10T15:06:50.928Z
+date: 2026-04-28T17:27:11.077Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-22T11:57:26.463Z
@@ -10,7 +10,7 @@ dateCreated: 2026-03-22T11:57:26.463Z
 
 # **Lumina Studio**
 ## 项目介绍
-Lumina-layers在2026年1月开发并且完全开源发布在github上面的软件，lumina为了简化用户使用hueforge/flatforge等其他软件学习门槛过高或需要使用指定要求的耗材的问题，基于物理校准使用了穷举法和简化穷举法来获得实际打印颜色，目前的模式并未带来任何颜色理论计算（未来可能会在2.0的高级功能中推出基于颜色/td值等的颜色计算玩法），目前只是打印-拍摄-提取颜色-根据提取的颜色映射堆叠配方-打印（这像是一种颜色匹配功能，就像是你在autoforge和CMYK Lithophane那样会默认给你匹配一些颜色的功能一样，所以受此启发）
+Lumina-layers在2026年1月开发并且完全开源发布在github上面的软件，lumina为了简化用户使用hueforge/flatforge等其他软件学习门槛过高或需要使用指定要求的耗材的问题，基于照片实测颜色校准，使用了穷举法和模拟前置的简化穷举法来获得实际打印颜色，目前的模式并未带来任何颜色理论计算（未来可能会在2.0的高级功能中推出基于颜色/td值等的颜色计算玩法），目前只是打印-拍摄-提取颜色-根据提取的颜色映射堆叠配方-打印（这像是一种颜色匹配功能，就像是你在autoforge和CMYK Lithophane那样会默认给你匹配一些颜色的功能一样，所以受此启发）
 
 > 在开发过程中为了方便用户，自研开发了一款开源的高精度位图转SVG的工具并且会在未来的2.0版本集成在软件内部。During development, an in-house, open-source, high-precision bitmap-to-SVG converter was created for user convenience and will be integrated into the software in the upcoming 2.0 release.
 svg tool： https://github.com/Neroued/neroued_vectorizer
