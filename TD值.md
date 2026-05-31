@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-05-31T14:00:54.941Z
+date: 2026-05-31T14:03:03.270Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -201,4 +201,12 @@ dateCreated: 2026-04-01T17:22:01.393Z
 |  PETG | <span style="background-color:#FFFF14; display:inline-block; width:20px; height:14px;"></span> | 黄色 | 3.8 | #FFFF14 |
 |  PETG | <span style="background-color:#FFFFFF; border:1px solid #ccc; display:inline-block; width:20px; height:14px;"></span> | 白色 | 2.4 | #FFFFFF |
 ## 蚁在云端
+| 类型 | 颜色 | 颜色名称 | TD值 | HEX 色值 |
+| ---- | ---- | -------- | ---- | -------- |
+| PLA+ | <span style="background-color:#FFFFFF; border:1px solid #ccc; display:inline-block; width:20px; height:14px;"></span> | 白色 | 4.1 | #FFFFFF |
+| PLA+ | <span style="background-color:#C42926; display:inline-block; width:20px; height:14px;"></span> | 深红色 | 4.1 | #C42926 |
+| PLA+ | <span style="background-color:#000000; display:inline-block; width:20px; height:14px;"></span> | 黑色 | 0.1 | #000000 |
+| PLA+ | <span style="background-color:#51C4B4; display:inline-block; width:20px; height:14px;"></span> | 绿色 | 2.8 | #51C4B4 |
+| PLA+ | <span style="background-color:#FFFF47; display:inline-block; width:20px; height:14px;"></span> | 黄色 | 6.1 | #FFFF47 |
+| PLA+ | <span style="background-color:#1D33AA; display:inline-block; width:20px; height:14px;"></span> | 蓝色 | 1.9 | #1D33AA |
 ## 
