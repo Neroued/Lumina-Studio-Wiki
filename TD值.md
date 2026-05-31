@@ -2,7 +2,7 @@
 title: TD值/HEX值分享
 description: 
 published: true
-date: 2026-04-13T16:13:21.075Z
+date: 2026-05-31T13:53:50.288Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T17:22:01.393Z
@@ -178,3 +178,15 @@ dateCreated: 2026-04-01T17:22:01.393Z
 | PLA-F  | <span style="background-color:#F8DA39; display:inline-block; width:20px; height:14px;"></span> | 黄色 | 5.9 | #F8DA39 |
 | PLA-F  | <span style="background-color:#141B45; display:inline-block; width:20px; height:14px;"></span> | 蓝色 | 3.1 | #141B45 |
 | PLA-F  | <span style="background-color:#871919; display:inline-block; width:20px; height:14px;"></span> | 红色 | 5.1 | #871919 |
+
+
+## Inslogic
+
+| 类型 | 颜色 | 颜色名称 | TD值 | HEX 色值 |
+| ---- | ---- | -------- | ---- | -------- |
+| INSLOGIC PLA PRO | <span style="background-color:#2F4C94; display:inline-block; width:20px; height:14px;"></span> | 蓝色 | 7.2 | #2F4C94 |
+| INSLOGIC PLA PRO | <span style="background-color:#601C18; display:inline-block; width:20px; height:14px;"></span> | 红色 | 6.3 | #601C18 |
+| INSLOGIC PLA PRO | <span style="background-color:#FFFFFF; border:1px solid #ccc; display:inline-block; width:20px; height:14px;"></span> | 白色 | 2.7 | #FFFFFF |
+| INSLOGIC PLA PRO | <span style="background-color:#FFDB43; display:inline-block; width:20px; height:14px;"></span> | 黄色 | 5.5 | #FFDB43 |
+| INSLOGIC PLA PRO | <span style="background-color:#449434; display:inline-block; width:20px; height:14px;"></span> | 绿色 | 1.9 | #449434 |
+| INSLOGIC PLA PRO | <span style="background-color:#131715; display:inline-block; width:20px; height:14px;"></span> | 黑色 | 0.1 | #131715 |
